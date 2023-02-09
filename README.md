@@ -8,7 +8,11 @@ KELAS       : TI.22.C9
 
 MATA KULIAH : Bahasa Pemograman
 
-## Membuat program sederhana untuk membuat data mahasiswa menggunakan fungsi dan Dictionary dengan python.
+Soal
+
+![Gambar](gambar/1.png)
+
+## Membuat program sederhana untuk membuat data mahasiswa dengan mengaplikasikan fungsi
 1. Langkah pertama, membuat sebuah dictionary kosong yang nantinya akan diinputkan data ketika program dijalankan.
 Masukan syntax berikut:
 
